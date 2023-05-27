@@ -106,9 +106,9 @@ For the layout I decided to use **CSS Grid.**
 
 The landing page would also have:
 
-* ```**<main>**``` x 3 **=>** showing CTA (call to action) and featured products.
+* ```<main>``` x 3 **=>** showing CTA (call to action) and featured products.
 
-* ```**<article>**``` x 3 **=>** leading to featured blogs.
+* ```<article>``` x 3 **=>** leading to featured blogs.
 
 ***
 
