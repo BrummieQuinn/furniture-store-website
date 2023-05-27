@@ -19,7 +19,7 @@ I was given the following:
 
 ## **<ins>The Misunderstanding:</ins>**:sweat_smile:
 
-**<ins>Can</ins>** code after: add classes to show where I want content to go. ℹ️*(Remember this part if your still reading at this point)*
+**<ins>Can</ins>** code after: add classes to show where I want content to go. ℹ️ *(Remember this part if your still reading at this point)*
 
 I fully believed at this point I had been asked to not only design the site from scratch, using the user brief, I also thought I had to build it.
 Please also bear in mind that the timeframe would be less than 24 hours and was being worked on straight after I had built my text-based game (also in a repository).
