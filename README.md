@@ -88,7 +88,7 @@ Within the ```<nav>``` would be ```<a>``` for:
 
 * **Site search**
 
-* **Shopping cart =>** Thank you for purchasing page
+* **Shopping cart =>** leading to a Thank you for purchasing page
 
 The ```<footer>``` would also have the following ```<a>```:
 
