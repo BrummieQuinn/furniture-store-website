@@ -19,9 +19,12 @@ I was given the following:
 
 ## **<ins>The Misunderstanding:</ins>**:sweat_smile:
 
-**<ins>Can</ins>** code after: add classes to show where I want content to go. ℹ️ *(Remember this part if your still reading at this point)*
+**<ins>Can</ins>** code after: add classes to show where I want content to go. 
+
+ℹ️ *(Remember this part if your still reading at this point)*
 
 I fully believed at this point I had been asked to not only design the site from scratch, using the user brief, I also thought I had to build it.
+
 Please also bear in mind that the timeframe would be less than 24 hours and was being worked on straight after I had built my text-based game (also in a repository).
 
 ## <ins>Part 1 - Research:</ins>
@@ -78,7 +81,7 @@ Within the ```<nav>``` would be ```<a>``` for:
 
 * **Products =>** leading to Product details page.
 
-* **About us =>** leading to Brand message page.
+* **About us =>** leading to Brand mission statement page.
 
 * **Contact us =>** leading to a form to submit questions not answered on the FAQ page.
 
@@ -115,8 +118,11 @@ The landing page would also have:
 ## **<ins>Part 3 - The building</ins>**
 
 As I now know, I was only supposed to show the structure of the site and classes/id's to show where the content would go.
+
 I however, as you can see, went even further than showing HTML structure.
+
 Thinking I was working to a deadline, I attempted a CSS layout I had only read about before.
+
 The result is this WIP furniture store.  Even when I was building it I found my initial ideas being discarded in favour of different ones
 
 This was the most frustrated I have been so far in my web development journey and after coming through the other side, I'm quite proud of my accomplishment.
@@ -140,4 +146,4 @@ However, this experience has shown me what I'm capable of and I intend to contin
 
 As you can see from the repository, I am currently working on the same site with **CSS Flexbox**
 
-I will attempt apply what I learn going forward to this project.
+I will attempt applying what I learn going forward, to this project.
