@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    outline: 1px solid royalblue;
+    font-size: 26px;
+    background-color:wheat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-between;
+    align-content: space-around;
+
+    
+}
+
+header {
+    height: 80vh;
+}
+
+.container {
+    display: flex;
+    flex-flow: row-reverse wrap;
+}
+
+.nav {
+    display: flex;
+    flex-flow: row;
+}
