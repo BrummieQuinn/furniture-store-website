@@ -17,9 +17,9 @@ I was given the following:
 
 * **Annotate the wireframe if possible** - can be hand drawn.
 
-## **<ins>The Misunderstanding:</ins>**
+## **<ins>The Misunderstanding:</ins>**:sweat_smile:
 
-* **<ins>Can</ins>** code after: add classes to show where I want content to go. *(Remember this part if your still reading at this point)*
+**<ins>Can</ins>** code after: add classes to show where I want content to go. ℹ️*(Remember this part if your still reading at this point)*
 
 I fully believed at this point I had been asked to not only design the site from scratch, using the user brief, I also thought I had to build it.
 Please also bear in mind that the timeframe would be less than 24 hours and was being worked on straight after I had built my text-based game (also in a repository).
@@ -65,7 +65,7 @@ There was also mention that semantic HTML has no need for ID/Classes.
 
 ***
 
-## **<ins>The Planning/Designing:</ins>**
+## **<ins>Part 2 - The Planning/Designing:</ins>**
 
 Taking what I'd learned, I first created a sitemap.
 
@@ -112,7 +112,7 @@ The landing page would also have:
 
 ***
 
-## **<ins>The building</ins>**
+## **<ins>Part 3 - The building</ins>**
 
 As I now know, I was only supposed to show the structure of the site and classes/id's to show where the content would go.
 I however, as you can see, went even further than showing HTML structure.
