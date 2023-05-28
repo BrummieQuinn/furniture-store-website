@@ -44,13 +44,13 @@ From my research I took away the following:
 
 * Use the principles of ***WCAG*** to implement accessibility testing - **POUR** an acronym for:
 
-    - **Perceivable** - consider disabilities.
+    - **P**erceivable - consider disabilities.
 
-    - **Operable** - user control of interactive elements.
+    - **O**perable - user control of interactive elements.
 
-    - **Understandable** - content written clearly.
+    - **U**nderstandable - content written clearly.
 
-    - **Robust** - assistive technology support.
+    - **R**obust - assistive technology support.
 
 I also learned the <ins>5</ins> rules for the usage of ***ARIA*** (Accessible Rich Internet Application).
 
